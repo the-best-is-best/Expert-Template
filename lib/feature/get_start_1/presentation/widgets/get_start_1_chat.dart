@@ -36,8 +36,8 @@ class GetStart1Chat extends StatelessWidget {
               width: 14,
             ),
             Container(
-              height: 48.h,
               width: 260.w,
+              padding: const EdgeInsets.all(8),
               decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(12),
                   border: Border.all(color: ColorManager.borderColor),

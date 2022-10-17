@@ -1,6 +1,6 @@
-import 'package:chat_ui/feature/get_start_1/view/get_start_1_view.dart';
+import 'package:chat_ui/feature/get_start_1/presentation/view/get_start_1_view.dart';
 import 'package:chat_ui/feature/get_start/view/get_start_view.dart';
-import 'package:chat_ui/feature/home/view/home_view.dart';
+import 'package:chat_ui/feature/home/presentation/view/home_view.dart';
 import 'package:chat_ui/feature/splash/view/splash_view.dart';
 import 'package:mit_x/mit_x.dart';
 

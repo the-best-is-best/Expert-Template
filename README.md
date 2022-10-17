@@ -73,6 +73,13 @@ flutter packages pub run build_runner watch
 * svg
 * screen util
 * chat robot
+* Dio
+* Bloc
+* Logging
+* Dependency Injection
+* Multilingual Support
+
+
 
 ### Folder Structure
 Here is the core folder structure which flutter provides.
@@ -106,3 +113,22 @@ lib/app/
        
     
 ```
+
+### Features
+## get start 1 and home use state management (bloc)
+
+## data layer
+* Data source
+* mapper
+* repository impl
+* response
+
+## domain layer
+* models
+* repository
+* use case
+
+## presentation layer
+* ui and widgets
+
+* presentation connect with cubit state management and cubit call use case then use case call Repository and Repository call RemoteDataSource and RemoteDataSource call AppServicesClient
